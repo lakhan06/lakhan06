@@ -1,10 +1,5 @@
 # 💫 About Me:
 I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1.5 years, achieving 90% client satisfaction with on-time, on-budget delivery and <br> exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.<br>✨Beyond my academic pursuits, I find solace and inspiration in the art of sketching. Whether it's bringing my ideas to life on paper or simply letting my imagination roam free, sketching is my creative sanctuary.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lakhan._gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhan06gupta) 
-
 # 💻 Tech Stack:
 ## Frontend Technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
