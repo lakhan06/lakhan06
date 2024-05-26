@@ -1,7 +1,7 @@
 <img src="https://wallpapers.com/images/hd/coding-background-9izlympnd0ovmpli.jpg" width="1900" height="300"/>
 
 # 💫 About Me:
-I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1.5 years, achieving 90% client satisfaction with on-time, on-budget delivery and <br> exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.<br>✨Beyond my academic pursuits, I find solace and inspiration in the art of sketching. Whether it's bringing my ideas to life on paper or simply letting my imagination roam free, sketching is my creative sanctuary.
+I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1.5 years, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.<br>✨Beyond my academic pursuits, I find solace and inspiration in the art of sketching. Whether it's bringing my ideas to life on paper or simply letting my imagination roam free, sketching is my creative sanctuary.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakhan06&theme=dark&hide_border=false)<br/>
