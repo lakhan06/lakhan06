@@ -11,6 +11,9 @@
 <a href="https://linkedin.com/in/lakhan06gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan06gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/_lakhan._gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakhan._gupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lakhan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhan_06" height="30" width="40" /></a>
+     <a href="https://discord.gg/#3559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3559" height="30" width="40" /></a>
+     <a href="https://fb.com/lakhan06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakhan06" height="30" width="40" /></a>
+     <a href="https://twitter.com/lakhang29189293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakhang29189293" height="30" width="40" /></a>
 </p>
 <hr>
 <br>
