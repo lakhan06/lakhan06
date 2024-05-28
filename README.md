@@ -2,16 +2,21 @@
 <p >
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=440&height=45&color=4B70C5&pause=1000&size=30" />
 </p>
-I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.
+I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.<br>
 
+# 🧑‍💻Socials:
+<p align="left">
+<a href="https://linkedin.com/in/lakhan06gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan06gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/_lakhan._gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakhan._gupta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lakhan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhan_06" height="30" width="40" /></a>
+</p>
+<br>
+     
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakhan06&theme=dark&hide_border=false)<br/>
 
 [![Lakhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakhan06&bg_color=0d1117&color=ffffff&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/lakhan06/github-readme-activity-graph)
-
-
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lakhan06&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -34,12 +39,3 @@ I'm currently a pre-final year student at Poornima College of Engineering, deepl
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 ---
 [![](https://visitcount.itsvg.in/api?id=lakhan06&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakhan06gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan06gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/_lakhan._gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakhan._gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakhan_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakhan_06" height="30" width="40" /></a>
-</p>
-
-
