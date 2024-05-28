@@ -5,9 +5,7 @@
 </p>
 <h3 style="font-size: 16px;">✨ Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding   expectations.</h3>
 <h3 style="font-size: 16px;">✨ Collaborated with freelancers, showcasing strong teamwork and communication skills.</h3>
-
-
-# 🧑‍💻Socials:
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/lakhan06gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhan06gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/_lakhan._gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakhan._gupta" height="30" width="40" /></a>
