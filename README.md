@@ -1,6 +1,6 @@
 
 <p >
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;1%20years%20of%20Freelancing%20experience&font=Fira%20Code&width=440&height=45&color=f75c7e&pause=1000&size=26" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=440&height=45&color=f75c7e&pause=1000&size=26" />
 </p>
 I'm currently a pre-final year student at Poornima College of Engineering, deeply immersed in the fascinating world of technology<br>✨Freelancing for 1.5 years, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding expectations.<br>✨Collaborated with freelancers, showcasing strong teamwork and communication skills.
 
