@@ -3,8 +3,8 @@
 <p >
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=540&height=45&color=4B70C5&pause=1000&size=30" />
 </p>
-<h2 style="font-size: 16px;">✨ Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding expectations.</h2>
-<h2 style="font-size: 16px;">✨ Collaborated with freelancers, showcasing strong teamwork and communication skills.</h2>
+<h3 style="font-size: 16px;">✨ Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding   expectations.</h3>
+<h3 style="font-size: 16px;">✨ Collaborated with freelancers, showcasing strong teamwork and communication skills.</h3>
 
 
 # 🧑‍💻Socials:
