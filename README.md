@@ -5,6 +5,8 @@ I'm currently a pre-final year student at Poornima College of Engineering, deepl
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakhan06&theme=dark&hide_border=false)<br/>
 
+[![Lakhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakhan06&bg_color=0d1117&color=ffffff&line=70a5fd&point=0f4cd1&area=true&hide_border=true)](https://github.com/lakhan06/github-readme-activity-graph)
+
 
 
 
