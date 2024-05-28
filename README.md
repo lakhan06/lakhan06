@@ -29,7 +29,7 @@ I'm currently a pre-final year student at Poornima College of Engineering, deepl
 ## Hosting/SaaS:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 ---
-[![](https://visitcount.itsvg.in/api?id=lakhan06&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lakhan06&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
